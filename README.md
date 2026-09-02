@@ -11,13 +11,14 @@ The tool was developed using the following dependencies:
 5. shap (0.47.2 or greater).
 6. scikit-learn (1.4.2 or greater).
 7. scipy (1.11.4 or greater).
+8. transformers (4.49.0 or greater)
 
 ## Code:
 
-1 data preparation.ipynb
+1 Data preparation.ipynb
 
 2 LightGBM.ipynb
 
-3 Bert.ipynb
+3 Menberta.ipynb
 
 4 Transformer.ipynb
